@@ -1,3 +1,7 @@
+This app provide how to use props, useStates and nested components in basic react app structure.
+The aim of it is to demonstrate how to start with first react app.
+On firstBranch, you will have simples components without any navigation system.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

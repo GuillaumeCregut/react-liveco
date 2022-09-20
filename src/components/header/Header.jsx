@@ -3,7 +3,6 @@ import './Header.css';
 const Header = () => {
     return (
         <div className='Header'>
-            <h1>Le monde des pirates</h1>
             <div className="desc">
                 <nav>
                     <ul>

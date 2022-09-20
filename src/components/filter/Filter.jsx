@@ -7,37 +7,35 @@ const Filter = ({ sex, setSex }) => {
   }
 
   return (
-    <div>
+    <div className='Filter'>
       <label htmlFor="all">
-        Tous
         <input
           type="radio"
           name="sex"
           id="all"
           value=""
           onChange={(e) => handleChange(e.target.value)}
-          checked={sex === ""} />
+          checked={sex === ""} />  Tous
       </label>
       <label htmlFor="Female">
-        Femmes
         <input
           type="radio"
           name="sex"
           id="Female"
           value="f"
           onChange={(e) => handleChange(e.target.value)}
-          checked={sex === "f"} />
+          checked={sex === "f"} /> Femmes
       </label>
       <label htmlFor="Male">
-        Hommes
+        
         <input
           type="radio"
           name="sex"
           id="Male"
           value="m"
           onChange={(e) => handleChange(e.target.value)}
-          checked={sex === "m"} />
-      </label>
+          checked={sex === "m"} /> Hommes
+      </label> 
     </div>
   )
 }
