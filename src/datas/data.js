@@ -46,11 +46,11 @@ const pirates=[
 
 },
 {
-    name : "Dieuleveult",
+    name : "Dieu-le-veut",
     sex : 'f',
     firstname : "Anne",
     nickname : "-",
-    picture :"",
+    picture :"https://histoireparlesfemmes.files.wordpress.com/2015/05/anne-dieu-le-veut-e1442229205220.jpg",
     resume:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta repellat incidunt at laudantium blanditiis esse exercitationem, voluptate alias aspernatur dolores molestias architecto ipsa cum sequi quo eius. Illum, minima quos.",
 
 }
