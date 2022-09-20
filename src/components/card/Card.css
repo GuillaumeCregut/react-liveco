@@ -1,0 +1,33 @@
+.Card{
+    width: 30%;
+    margin: 10px;
+    box-shadow: 5px 8px 16px -2px #77360B;
+    border : 1px solid  #77360B;
+    border-radius: 5px;
+    display: flex;
+    padding: 5px;
+}
+
+.CardImg{
+    width: 150px;
+}
+
+.Female{
+    background-color: rgba(242, 112, 135,.050);
+}
+
+.Male{
+    background-color: rgba(0,136,217,0.05);
+}
+
+.Identity{
+display: flex;
+flex-direction: column;
+}
+
+.resume{
+    border: 3px groove #1C6EA4;
+    border-radius: 5px; 
+    margin: 2px 5px;
+    padding: 2px;
+}
