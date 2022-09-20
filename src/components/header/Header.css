@@ -1,0 +1,14 @@
+nav{
+ width: 50%;
+ margin : 0 auto;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+li{
+    padding: 5px;
+}
