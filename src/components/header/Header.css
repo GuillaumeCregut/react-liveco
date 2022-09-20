@@ -16,4 +16,8 @@ ul{
 
 li{
     padding: 5px;
+    cursor: pointer;
+}
+li:hover{
+    text-decoration: underline;
 }
